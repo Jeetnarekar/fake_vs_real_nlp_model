@@ -1,28 +1,9 @@
-# Core dependencies
 streamlit
 pandas
 numpy
 joblib
-
-# Machine Learning & NLP
 scikit-learn
 imblearn
 spacy
-
-# Web Scraping
 requests
 beautifulsoup4
-
-# Database Tools
-sqlite3-binary
-duckdb
-
-# PySpark (if used for dataset operations)
-pyspark
-
-# Visualization
-matplotlib
-
-# Optional: only needed if you plan to run this locally with TF-IDF/ML models
-# and want to ensure consistent versions
-# (You can pin versions if desired, e.g., spacy==3.7.2, scikit-learn==1.5.2)
